@@ -1,7 +1,7 @@
-中文 Golang 开发博客/公众号列表
+中文 Golang 开发博客/微信公众号列表
 =========
 
-本博客列表会不断更新维护，如果有推荐的博客、公众号，请到此处[提交博客/公众号信息](https://github.com/yangwenmai/golangBlogCN/issues/1)。
+本博客列表会不断更新维护，如果有推荐的博客、微信公众号，请到此处[提交博客/公众号信息](https://github.com/yangwenmai/golangBlogCN/issues/1)。
 
 本博客列表涉及的文章内容支持 [定制化Google搜索](https://cse.google.com/cse/publicurl?cx=012619441804928271226:u6z4yvp8enm)。
 
