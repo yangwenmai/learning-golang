@@ -36,6 +36,7 @@
 [博客 - PingCAP](https://pingcap.com/bloglist) | 
 [猎豹移动技术博客](http://dev.cmcm.com/) | <http://dev.cmcm.com/feed>
 [Huang Huang的博客](https://mozillazg.github.io/) | <https://mozillazg.github.io/feeds/all.atom.xml>
+[Fiisio -- thinking and codeing](http://fiisio.me) | 
 
 ----
 
