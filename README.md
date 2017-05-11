@@ -30,6 +30,7 @@
 [Cyeam -- 你不要用战术的勤奋掩盖战略的懒惰。](http://blog.cyeam.com/) | <http://blog.cyeam.com/atom.xml>
 [战魂小筑](http://www.cppblog.com/sunicdavy) | <http://www.cppblog.com/sunicdavy/rss.aspx>
 [My*Candy](http://mengqi.info/) | <http://mengqi.info/feed.xml>
+[fatedier blog](http://blog.fatedier.com) | 
 [Gopher beyond EI[i]phants](https://mikespook.com/) | <https://mikespook.com/feed/>
 [Golang编程百例](https://www.zybuluo.com/Gestapo/note/32082) | 
 [七牛云 - 七牛团队博客](http://blog.qiniu.com/) | <http://blog.qiniu.com/feed>
