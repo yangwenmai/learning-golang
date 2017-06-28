@@ -27,14 +27,12 @@ def handler():
                     continue
                 title = re.findall(r'\[(.+?)\]',val)[0]
                 r = re.findall(r'<(.+?)>', val)
-                print(r)
                 if len(r)>0:
                     xmlUrl = re.findall(r'<(.+?)>',val)[0]
                 else:
                     xmlUrl = ""
                 htmlUrl = re.findall(r'\((.+?)\)',val)[0]
                 handlerData.append('<outline text="{0}" title="{0}" type="rss" xmlUrl="{1}" htmlUrl="{2}"/>'.format(title,xmlUrl,htmlUrl))
-                print(handlerData)
             fs.close()
     except:
         print('错误处理','读取文件失败')

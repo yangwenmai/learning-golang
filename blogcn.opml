@@ -3,6 +3,7 @@
 <outline text="Tony Bai -- 一个程序员的心路历程" title="Tony Bai -- 一个程序员的心路历程" type="rss" xmlUrl="http://tonybai.com/feed/" htmlUrl="http://tonybai.com/"/>
 <outline text="Arthur的博客" title="Arthur的博客" type="rss" xmlUrl="http://www.zenlife.tk/feed.atom" htmlUrl="http://www.zenlife.tk/index/"/>
 <outline text="鸟窝" title="鸟窝" type="rss" xmlUrl="http://colobu.com/atom.xml" htmlUrl="http://colobu.com/"/>
+<outline text="飞雪无情的博客" title="飞雪无情的博客" type="rss" xmlUrl="http://www.flysnow.org/atom.xml" htmlUrl="http://www.flysnow.org"/>
 <outline text="午夜咖啡" title="午夜咖啡" type="rss" xmlUrl="http://jolestar.com/feed.xml" htmlUrl="http://jolestar.com/"/>
 <outline text="蝈蝈俊的技术心得" title="蝈蝈俊的技术心得" type="rss" xmlUrl="http://www.cnblogs.com/ghj1976/rss" htmlUrl="http://www.cnblogs.com/ghj1976/"/>
 <outline text="FuXiaohei.Me -- 傅小黑的自留地" title="FuXiaohei.Me -- 傅小黑的自留地" type="rss" xmlUrl="" htmlUrl="http://fuxiaohei.me/"/>
@@ -15,15 +16,20 @@
 <outline text="Harold's Blog -- 个人技术笔记" title="Harold's Blog -- 个人技术笔记" type="rss" xmlUrl="" htmlUrl="http://oikomi.github.io/"/>
 <outline text="YanyiWu" title="YanyiWu" type="rss" xmlUrl="http://yanyiwu.com/rss.xml" htmlUrl="http://yanyiwu.com/"/>
 <outline text="努力加贝" title="努力加贝" type="rss" xmlUrl="" htmlUrl="http://www.nljb.net/"/>
+<outline text="ipfans's Blog" title="ipfans's Blog" type="rss" xmlUrl="" htmlUrl="https://ipfans.github.io/"/>
 <outline text="Cyeam -- 你不要用战术的勤奋掩盖战略的懒惰。" title="Cyeam -- 你不要用战术的勤奋掩盖战略的懒惰。" type="rss" xmlUrl="http://blog.cyeam.com/atom.xml" htmlUrl="http://blog.cyeam.com/"/>
 <outline text="战魂小筑" title="战魂小筑" type="rss" xmlUrl="http://www.cppblog.com/sunicdavy/rss.aspx" htmlUrl="http://www.cppblog.com/sunicdavy"/>
 <outline text="My*Candy" title="My*Candy" type="rss" xmlUrl="http://mengqi.info/feed.xml" htmlUrl="http://mengqi.info/"/>
+<outline text="fatedier blog" title="fatedier blog" type="rss" xmlUrl="" htmlUrl="http://blog.fatedier.com"/>
+<outline text="siddontang的专栏-my thought for program。" title="siddontang的专栏-my thought for program。" type="rss" xmlUrl="http://blog.csdn.net/siddontang/rss/list" htmlUrl="http://blog.csdn.net/siddontang"/>
+<outline text="Siddon's Blog-My thought for program" title="Siddon's Blog-My thought for program" type="rss" xmlUrl="http://siddontang.com/atom.xml" htmlUrl="http://siddontang.com"/>
 <outline text="Gopher beyond EI[i" title="Gopher beyond EI[i" type="rss" xmlUrl="https://mikespook.com/feed/" htmlUrl="https://mikespook.com/"/>
 <outline text="Golang编程百例" title="Golang编程百例" type="rss" xmlUrl="" htmlUrl="https://www.zybuluo.com/Gestapo/note/32082"/>
 <outline text="七牛云 - 七牛团队博客" title="七牛云 - 七牛团队博客" type="rss" xmlUrl="http://blog.qiniu.com/feed" htmlUrl="http://blog.qiniu.com/"/>
 <outline text="博客 - PingCAP" title="博客 - PingCAP" type="rss" xmlUrl="" htmlUrl="https://pingcap.com/bloglist"/>
 <outline text="猎豹移动技术博客" title="猎豹移动技术博客" type="rss" xmlUrl="http://dev.cmcm.com/feed" htmlUrl="http://dev.cmcm.com/"/>
 <outline text="Huang Huang的博客" title="Huang Huang的博客" type="rss" xmlUrl="https://mozillazg.github.io/feeds/all.atom.xml" htmlUrl="https://mozillazg.github.io/"/>
+<outline text="Fiisio -- thinking and codeing" title="Fiisio -- thinking and codeing" type="rss" xmlUrl="" htmlUrl="http://fiisio.me"/>
 <outline text="https://gocn.io" title="https://gocn.io" type="rss" xmlUrl="" htmlUrl="https://gocn.io"/>
 <outline text="http://studygolang.com" title="http://studygolang.com" type="rss" xmlUrl="" htmlUrl="http://studygolang.com"/>
 <outline text="http://www.golangtc.com" title="http://www.golangtc.com" type="rss" xmlUrl="" htmlUrl="http://www.golangtc.com"/>

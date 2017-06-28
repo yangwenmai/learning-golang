@@ -9,12 +9,15 @@
 
 本项目起源于[iOSBlogCN](https://github.com/tangqiaoboy/iOSBlogCN)，非常感谢[唐巧](https://github.com/tangqiaoboy/)。
 
+注意：本项目中的Export.py文件必须用python3执行。
+
 博客地址(排名不分先后) | RSS地址
 ----- | -----
 [The Go Programming Language Blog](https://blog.golang.org/)| 
 [Tony Bai -- 一个程序员的心路历程](http://tonybai.com/) | <http://tonybai.com/feed/>
 [Arthur的博客](http://www.zenlife.tk/index/) | <http://www.zenlife.tk/feed.atom>
 [鸟窝](http://colobu.com/) | <http://colobu.com/atom.xml>
+[飞雪无情的博客](http://www.flysnow.org) | <http://www.flysnow.org/atom.xml>
 [午夜咖啡](http://jolestar.com/) | <http://jolestar.com/feed.xml>
 [蝈蝈俊的技术心得](http://www.cnblogs.com/ghj1976/) | <http://www.cnblogs.com/ghj1976/rss>
 [FuXiaohei.Me -- 傅小黑的自留地](http://fuxiaohei.me/) | 
