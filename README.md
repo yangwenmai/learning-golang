@@ -36,6 +36,7 @@
 [My*Candy](http://mengqi.info/) | <http://mengqi.info/feed.xml>
 [fatedier blog](http://blog.fatedier.com) | 
 [siddontang的专栏-my thought for program。](http://blog.csdn.net/siddontang) | <http://blog.csdn.net/siddontang/rss/list>
+[holys'](http://holys.im) | 
 [Siddon's Blog-My thought for program](http://siddontang.com) | <http://siddontang.com/atom.xml>
 [Gopher beyond EI[i]phants](https://mikespook.com/) | <https://mikespook.com/feed/>
 [Golang编程百例](https://www.zybuluo.com/Gestapo/note/32082) | 
