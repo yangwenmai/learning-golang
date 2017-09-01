@@ -1,4 +1,5 @@
 中文 Golang 开发博客/微信公众号列表
+[![Build Status](https://travis-ci.org/yangwenmai/golangBlogCN.svg?branch=master)](https://travis-ci.org/yangwenmai/golangBlogCN) [![Go Report Card](https://goreportcard.com/badge/github.com/yangwenmai/golangBlogCN)](https://goreportcard.com/report/github.com/yangwenmai/golangBlogCN)  [![Documentation](https://godoc.org/github.com/yangwenmai/golangBlogCN?status.svg)](http://godoc.org/github.com/yangwenmai/golangBlogCN) [![Coverage Status](https://coveralls.io/repos/github/yangwenmai/golangBlogCN/badge.svg?branch=master)](https://coveralls.io/github/yangwenmai/golangBlogCN?branch=master) [![GitHub issues](https://img.shields.io/github/issues/yangwenmai/golangBlogCN.svg)](https://github.com/yangwenmai/golangBlogCN/issues) [![license](https://img.shields.io/github/license/yangwenmai/golangBlogCN.svg?maxAge=2592000)](https://github.com/yangwenmai/golangBlogCN/LICENSE) [![Release](https://img.shields.io/github/release/yangwenmai/golangBlogCN.svg?label=Release)](https://github.com/yangwenmai/golangBlogCN/releases)
 =========
 
 本博客列表会不断更新维护，如果有推荐的博客、微信公众号，请到此处[提交博客/公众号信息](https://github.com/yangwenmai/golangBlogCN/issues/1)。
