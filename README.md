@@ -48,6 +48,7 @@
 [Huang Huang的博客](https://mozillazg.github.io/) | <https://mozillazg.github.io/feeds/all.atom.xml>
 [Fiisio -- thinking and codeing](http://fiisio.me) | 
 [LittleFeng的博客 -- Python、Golang、Java、后端技术](https://allenwind.github.io)
+[Legendtkl](http://legendtkl.com/) | 
 
 ----
 
