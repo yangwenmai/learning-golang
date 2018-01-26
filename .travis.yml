@@ -20,9 +20,9 @@ install:
 
 script:
     - overalls -project=github.com/yangwenmai/golangBlogCN -covermode=count -ignore='.git,_vendor'
-    - goveralls -coverprofile=overalls.coverprofile -service=travis-ci -repotoken $COVERALLS_TOKEN
+    - goveralls -coverprofile=overalls.coverprofile -service=travis-ci
     - go test ./...
 
 env:
   global:
-    secure: "EPqqezQz+tMrDDI2r8iL++iEPEWMr1EG3MSQhbYMtFqLQzt56hL5O8wO1kmbUJVaMGzSr5lOQNtxZO8jSxGt062TGsVFlg+cmwbAql0Zz0ONczbhmdDqEx5HDKDSUSKEZq5eerbmyfwhZ3HzSSafCJmgqcl9BMbzAV8AkN4OExTWS1FNzdc8y8hPNbOlETVr7UDcEeEG9zLE3EUtr9OwtM+m9tUgGuas02QUthOsYVtYuU6TboSZ85Y4D+cPQsiyK6ZZ/ltnbClNOqyDOi+h+FgZtbhbRH9TrUiZiFLsOc9QPlCnGgYLaEc6Rsd2MnNexSA59twui6O+Xexy5FyejunOtjkfKFZS7iXL3jpu8ayAzNECGezhkJUXSNBhWv2nDh1jBVFFrnCKxFJILL0oG/Zky9QmzD3sIoHPzwXLW0xU76mS2kGSkKjVCuoJMDjry6KB0hUMA8ETv+OPoGVFQ4UmtWKSazjo59by5XFacc6FR2MilnsAfBThnnQPKl5UZCMHXjHPOE8EYIwaKQTtfCWFoYi66GgCacRRENJRZ9L/IZxWIx8BIJ6AsspZqmLQJE+Cb+J3sT7YaSMmhX+NsHFPOD6Vd/+Fzvls9+aQX+Gu/qbSgiLvTJKSeaKA2oFSIfz5eQ9juvTqDyOeOg9pKKSVECNrXa7PV0m50bSYgIU="
+    secure: ""
