@@ -9,7 +9,7 @@ notifications:
   on_failure: always
 
 go:
-  - 1.8.3
+  - 1.9.3
 
 install:
   - go get github.com/go-playground/overalls
