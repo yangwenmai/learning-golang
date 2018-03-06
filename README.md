@@ -90,5 +90,13 @@ Go 其他|
 
 ## Go 书籍
 
-[深入解析Go](https://www.gitbook.com/book/tiancaiamao/go-internals/details)
+Go 在线书籍
+----|
+[Go开发Web应用](https://github.com/astaxie/build-web-application-with-golang)
+[Go 入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN)
+[雨痕的go学习笔记](https://github.com/qyuhen/book)
+[Go语言圣经](https://www.gitbook.com/book/wizardforcel/gopl-zh/details)
+[深入解析Go](https://www.gitbook.com/book/tiancaiamao/go-internals/details)|
+[Go命令向导](https://github.com/hyper0x/go_command_tutorial)|
+[Go语言学习资源整理](https://zhuanlan.zhihu.com/p/25493806)
 
