@@ -78,6 +78,7 @@
 | [深入理解 Go by teh-cmc](https://github.com/teh-cmc/go-internals)|
 | [深入理解 Go by tiancaiamao](https://github.com/tiancaiamao/go-internals) |
 | [Go 内部原理的一系列文章和视频](https://github.com/emluque/golang-internals-resources)|
+| [编写和优化 Go 代码](https://github.com/dgryski/go-perfbook/) |
 
 | Go 书籍|
 |-----|
