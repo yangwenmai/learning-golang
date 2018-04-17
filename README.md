@@ -113,15 +113,19 @@
 
 ### 1. Vim
 
-MacVim + vim-go
+[MacVim](https://github.com/macvim-dev/macvim) + [vim-go](https://github.com/fatih/vim-go)
+
+[Golang 开发环境搭建-Vim篇 by Tonybai](https://tonybai.com/2014/11/07/golang-development-environment-for-vim/)
 
 ### 2. 文本编辑器 + 插件
 
-Visual Studio Code、Sublime Text 3、Atom
+[Visual Studio Code](https://code.visualstudio.com)、[Sublime Text 3](https://www.sublimetext.com/3)、[Atom](https://atom.io)
+
+安装 Go 插件方法很简单，这里就不介绍了。
 
 ### 3. IDE
 
-IntelliJ idea + Go Plugin、Goland、LiteIDE
+IntelliJ idea + Go Plugin、[Goland](https://www.jetbrains.com/go/)、[LiteIDE](https://github.com/visualfc/liteide)
 
 ----
 
