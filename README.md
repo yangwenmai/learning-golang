@@ -10,7 +10,7 @@
 
 本项目起源于[iOSBlogCN](https://github.com/tangqiaoboy/iOSBlogCN)，非常感谢[唐巧](https://github.com/tangqiaoboy/)。
 
-注意：本项目中的Export.py文件必须用python3执行。
+注意：本项目中的 Export.py 文件必须用python3执行。
 
 博客地址(排名不分先后) | RSS地址
 ----- | -----
@@ -51,6 +51,78 @@
 [Legendtkl](http://legendtkl.com/) | 
 [行思錄 | Travel Coder - Arch, Coding, Life Learning](https://liudanking.com)
 
+
+----
+
+## Go 学习资料
+
+| Go 入门|
+|----|
+| [Go 官方网站](https://golang.org/) 、[Go 中文官方网站](https://go-zh.org/) |
+| [Go 入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN) |
+| [Go 指南](https://tour.go-zh.org/) |
+| [Go 怎么开始](https://github.com/alco/gostart) |
+| [Go 开发向导 16 讲](https://github.com/hacking-code/golang-tutorials) |
+| [Go 命令指南](https://github.com/hyper0x/go_command_tutorial) |
+| [Go by Example](https://gobyexample.com/) |
+| [国外的一个高质量 Go 教程集](https://golangbot.com/learn-golang-series/) |
+| [Go 测试驱动](https://quii.gitbook.io/learn-go-with-tests) |
+
+| Go 进阶|
+|----|
+| [Go 官方博客](https://blog.golang.org/) |
+| [Go 官方包文档-pkg](https://golang.org/pkg/) |
+| [Go 标准库中文文档-cngolib](http://cngolib.com/)| |
+| [深入理解 Go by teh-cmc](https://github.com/teh-cmc/go-internals)|
+| [深入理解 Go by tiancaiamao](https://github.com/tiancaiamao/go-internals) |
+| [Go 内部原理的一系列文章和视频](https://github.com/emluque/golang-internals-resources)|
+
+| Go 书籍|
+|-----|
+| [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang) |
+| [雨痕的 Go 学习笔记](https://github.com/qyuhen/book) |
+| [Go 语言圣经](https://www.gitbook.com/book/wizardforcel/gopl-zh/details) |
+| [GO SCP](https://checkmarx.gitbooks.io/go-scp/content/) |
+
+| Go 其他|
+|----|
+| [Gopher 阅读清单](https://github.com/enocom/gopher-reading-list) |
+| [Go 知识图谱](https://github.com/gocn/knowledge) |
+| [Go 语言学习资源整理](https://zhuanlan.zhihu.com/p/25493806) |
+
+
+| Go 面试|
+|----|
+[Go 开发建议](https://github.com/cristaloleg/go-advices)|
+[精华的 Go 面试题和答案](https://github.com/goquiz/goquiz.github.io)|
+[编程面试题的 Go 实现](https://github.com/mrekucci/epi)|
+
+## Go 学习视频
+
+| 课程名称 | 简单介绍 |
+|----|----|----|
+| [Go 编程基础](https://github.com/Unknwon/go-fundamental-programming) | 这套视频适合初学者。 |
+| [Go Web 基础](https://github.com/Unknwon/go-web-foundation) | 主要面向完成《Go 编程基础》教程后希望进一步了解有关 Go Web 开发的学习者。|
+| [Go 名库讲解](https://github.com/Unknwon/go-rock-libraries-showcases) | 主要是对 Go 语言的第三方库进行评测讲解的，集博客、示例与语音视频为一体的综合教程，适合完成《Go编程基础》教程之后的学习者。|
+| [Go 语言第一课](http://www.imooc.com/learn/345)|郝林|
+
+
+----
+
+## Go 开发工具
+
+### 1. Vim
+
+MacVim + vim-go
+
+### 2. 文本编辑器 + 插件
+
+Visual Studio Code、Sublime Text 3、Atom
+
+### 3. IDE
+
+IntelliJ idea + Go Plugin、Goland、LiteIDE
+
 ----
 
 微信公众号(排名不分先后) | 公众号ID | 二维码
@@ -66,37 +138,9 @@ PingCAP|pingcap2015|![PingCAP](https://mp.weixin.qq.com/mp/qrcode?scene=10000004
 
 ----
 
-Go语言社区（排名不分先后）|
-----|
-[https://gocn.io](https://gocn.io)|
-[http://studygolang.com](http://studygolang.com)|
-[http://www.golangtc.com](http://www.golangtc.com)|
-[http://www.golangweb.com](http://www.golangweb.com)|
-
-----
-
-Go 其他|
-----|
-[Go社区的知识图谱](https://github.com/gocn/knowledge)|
-[Go 建议](https://github.com/cristaloleg/go-advices)|
-[开始Go](https://github.com/alco/gostart)|
-[Golang Guide and Tutorials](https://github.com/hacking-code/golang-tutorials)|
-[gopher-reading-list](https://github.com/enocom/gopher-reading-list)|
-[go-internals](https://github.com/teh-cmc/go-internals)|
-[Awesome Go Interview Questions and Answers](https://github.com/goquiz/goquiz.github.io)|
-[Solutions for Elements of Programming Interviews problems written in Golang](https://github.com/mrekucci/epi)|
-
-----
-
-## Go 书籍
-
-Go 在线书籍
-----|
-[Go开发Web应用](https://github.com/astaxie/build-web-application-with-golang)
-[Go 入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN)
-[雨痕的go学习笔记](https://github.com/qyuhen/book)
-[Go语言圣经](https://www.gitbook.com/book/wizardforcel/gopl-zh/details)
-[深入解析Go](https://www.gitbook.com/book/tiancaiamao/go-internals/details)|
-[Go命令向导](https://github.com/hyper0x/go_command_tutorial)|
-[Go语言学习资源整理](https://zhuanlan.zhihu.com/p/25493806)
-
+Go 语言社区（排名不分先后）|特色|
+----|----|
+[Go中国技术社区](https://gocn.io)|GoCN每日新闻、问答社区|
+[GO语言中文网](http://studygolang.com)|问答社区、开源项目、资源、图书、下载、官方文档。|
+[Golang 中国](http://www.golangtc.com)|问答社区、图书、下载。|
+[Golang 语言社区(www.Golang.LTD)](http://www.golang.ltd)|问答社区|
