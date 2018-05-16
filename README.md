@@ -4,7 +4,7 @@ Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（�
 
 Go 学习之路将会不断更新维护，如果有推荐的博客、微信公众号、学习资料，可以[提交 Issue](https://github.com/yangwenmai/learning-golang/issues/1)。
 
-=========
+----
 
 ## Go 学习资料
 
