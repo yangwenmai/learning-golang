@@ -20,6 +20,7 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 Go By Example 中文版](https://github.com/xg-wang/gobyexample) |
 | [国外的一个高质量 Go 教程集](https://golangbot.com/learn-golang-series/) |
 | [Go 测试驱动](https://quii.gitbook.io/learn-go-with-tests) |
+| [针对初学者的快速入门开发和使用 go](https://github.com/KeKe-Li/For-learning-Go-Tutorial) |
 
 | Go 进阶|
 |----|
