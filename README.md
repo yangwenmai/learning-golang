@@ -16,7 +16,8 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 | [Go 怎么开始](https://github.com/alco/gostart) |
 | [Go 开发向导 16 讲](https://github.com/hacking-code/golang-tutorials) |
 | [Go 命令指南](https://github.com/hyper0x/go_command_tutorial) |
-| [Go by Example](https://gobyexample.com/) |
+| [Go by Example](https://gobyexample.com/) 、[
+Go By Example 中文版](https://github.com/xg-wang/gobyexample) |
 | [国外的一个高质量 Go 教程集](https://golangbot.com/learn-golang-series/) |
 | [Go 测试驱动](https://quii.gitbook.io/learn-go-with-tests) |
 
@@ -29,14 +30,18 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 | [深入理解 Go by tiancaiamao](https://github.com/tiancaiamao/go-internals) |
 | [Go 内部原理的一系列文章和视频](https://github.com/emluque/golang-internals-resources)|
 | [编写和优化 Go 代码](https://github.com/dgryski/go-perfbook/) |
+| [Go 语言博客实践](https://github.com/achun/Go-Blog-In-Action) |
 
 | Go 书籍|
 |-----|
 | [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang) |
 | [雨痕的 Go 学习笔记](https://github.com/qyuhen/book) |
-| [Go 语言圣经](https://www.gitbook.com/book/wizardforcel/gopl-zh/details) |
+| [Go 语言圣经](https://www.gitbook.com/book/wizardforcel/gopl-zh/details) / [Go 语言圣经](https://github.com/golang-china/gopl-zh) |
 | [GO SCP](https://checkmarx.gitbooks.io/go-scp/content/) |
-
+| [List of Golang books](https://github.com/dariubs/GoBooks) |
+| [《Go语言高级编程》开源免费图书(开发中...) ](https://github.com/chai2010/advanced-go-programming-book) |
+| [一本学习 Go 语言的免费电子书。 ](https://github.com/mikespook/Learning-Go-zh-cn) |
+| [《Effective Go》中英双语版](https://github.com/bingohuang/effective-go-zh-en) |
 
 | Go 面试|
 |----|
@@ -50,7 +55,12 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 | [Gopher 阅读清单](https://github.com/enocom/gopher-reading-list) |
 | [Go 知识图谱](https://github.com/gocn/knowledge) |
 | [Go 语言学习资源整理](https://zhuanlan.zhihu.com/p/25493806) |
-
+| [Golang 标准包解析](https://github.com/syaning/go-pkgs) |
+| [Golang 的标准库中文版，由 Go 友团翻译](https://github.com/jemygraw/GoStandardLibrary-Chinese) |
+| [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) |
+| [设计模式 Golang实现－《研磨设计模式》读书笔记](https://github.com/senghoo/golang-design-pattern) |
+| [GopherChina2018: 深入CGO编程 - 最新修订](https://github.com/chai2010/gopherchina2018-cgo-talk) |
+| [《啊哈!算法》-Go 实现](https://github.com/eruca/aha) |
 
 ## Go 学习视频
 
