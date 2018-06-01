@@ -1,8 +1,6 @@
 Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）
 
-[![Build Status](https://travis-ci.org/yangwenmai/learning-golang.svg?branch=master)](https://travis-ci.org/yangwenmai/learning-golang) [![Go Report Card](https://goreportcard.com/badge/github.com/yangwenmai/learning-golang)](https://goreportcard.com/report/github.com/yangwenmai/learning-golang)  [![Documentation](https://godoc.org/github.com/yangwenmai/learning-golang?status.svg)](http://godoc.org/github.com/yangwenmai/learning-golang) [![Coverage Status](https://coveralls.io/repos/github/yangwenmai/learning-golang/badge.svg?branch=master)](https://coveralls.io/github/yangwenmai/learning-golang?branch=master) [![GitHub issues](https://img.shields.io/github/issues/yangwenmai/learning-golang.svg?label=Issue)](https://github.com/yangwenmai/learning-golang/issues) [![license](https://img.shields.io/github/license/yangwenmai/learning-golang.svg?maxAge=2592000)](https://github.com/yangwenmai/learning-golang/LICENSE) [![Release](https://img.shields.io/github/release/yangwenmai/learning-golang.svg?label=Release)](https://github.com/yangwenmai/learning-golang/releases)
-
-**注意：**《Go 学习之路》已经迁移到[https://github.com/developer-learning/learning-golang](https://github.com/developer-learning/learning-golang)。
+**注意：《Go 学习之路》已经迁移到[https://github.com/developer-learning/learning-golang](https://github.com/developer-learning/learning-golang)。**
 
 =========
 
