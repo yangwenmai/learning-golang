@@ -21,6 +21,7 @@ Go By Example 中文版](https://github.com/xg-wang/gobyexample) |
 | [国外的一个高质量 Go 教程集](https://golangbot.com/learn-golang-series/) |
 | [Go 测试驱动](https://quii.gitbook.io/learn-go-with-tests) |
 | [针对初学者的快速入门开发和使用 go](https://github.com/KeKe-Li/For-learning-Go-Tutorial) |
+| [Go 快速入门资料](https://devhints.io/go) |
 
 | Go 进阶|
 |----|
@@ -36,7 +37,7 @@ Go By Example 中文版](https://github.com/xg-wang/gobyexample) |
 | Go 书籍|
 |-----|
 | [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang) |
-| [雨痕的 Go 学习笔记](https://github.com/qyuhen/book) |
+| [雨痕的《Go 学习笔记》，正在编写第六版，可于微博下载预览版，或关注公众号(2018-05-07)](https://github.com/qyuhen/book) |
 | [Go 语言圣经](https://www.gitbook.com/book/wizardforcel/gopl-zh/details) / [Go 语言圣经](https://github.com/golang-china/gopl-zh) |
 | [GO SCP](https://checkmarx.gitbooks.io/go-scp/content/) |
 | [List of Golang books](https://github.com/dariubs/GoBooks) |
