@@ -45,6 +45,7 @@ Go By Example 中文版](https://github.com/xg-wang/gobyexample) |
 | [一本学习 Go 语言的免费电子书。 ](https://github.com/mikespook/Learning-Go-zh-cn) |
 | [《Effective Go》中英双语版](https://github.com/bingohuang/effective-go-zh-en) |
 | [Go 101](https://github.com/go101/go101) |
+| [Learn Go with tests](https://github.com/quii/learn-go-with-tests) |
 
 | Go 面试|
 |----|
