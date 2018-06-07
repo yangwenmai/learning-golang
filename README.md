@@ -1,8 +1,8 @@
 Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）
 
-[![Build Status](https://travis-ci.org/yangwenmai/learning-golang.svg?branch=master)](https://travis-ci.org/yangwenmai/learning-golang) [![Go Report Card](https://goreportcard.com/badge/github.com/yangwenmai/learning-golang)](https://goreportcard.com/report/github.com/yangwenmai/learning-golang)  [![Documentation](https://godoc.org/github.com/yangwenmai/learning-golang?status.svg)](http://godoc.org/github.com/yangwenmai/learning-golang) [![Coverage Status](https://coveralls.io/repos/github/yangwenmai/learning-golang/badge.svg?branch=master)](https://coveralls.io/github/yangwenmai/learning-golang?branch=master) [![GitHub issues](https://img.shields.io/github/issues/yangwenmai/learning-golang.svg?label=Issue)](https://github.com/yangwenmai/learning-golang/issues) [![license](https://img.shields.io/github/license/yangwenmai/learning-golang.svg?maxAge=2592000)](https://github.com/yangwenmai/learning-golang/LICENSE) [![Release](https://img.shields.io/github/release/yangwenmai/learning-golang.svg?label=Release)](https://github.com/yangwenmai/learning-golang/releases)
+[![Build Status](https://travis-ci.org/developer-learning/learning-golang.svg?branch=master)](https://travis-ci.org/developer-learning/learning-golang) [![Go Report Card](https://goreportcard.com/badge/github.com/developer-learning/learning-golang)](https://goreportcard.com/report/github.com/developer-learning/learning-golang)  [![Documentation](https://godoc.org/github.com/developer-learning/learning-golang?status.svg)](http://godoc.org/github.com/developer-learning/learning-golang) [![Coverage Status](https://coveralls.io/repos/github/developer-learning/learning-golang/badge.svg?branch=master)](https://coveralls.io/github/developer-learning/learning-golang?branch=master) [![GitHub issues](https://img.shields.io/github/issues/developer-learning/learning-golang.svg?label=Issue)](https://github.com/developer-learning/learning-golang/issues) [![license](https://img.shields.io/github/license/developer-learning/learning-golang.svg?maxAge=2592000)](https://github.com/developer-learning/learning-golang/LICENSE) [![Release](https://img.shields.io/github/release/developer-learning/learning-golang.svg?label=Release)](https://github.com/developer-learning/learning-golang/releases)
 
-Go 学习之路将会不断更新维护，如果有推荐的博客、微信公众号、学习资料，可以[提交 Issue](https://github.com/yangwenmai/learning-golang/issues/1)。
+Go 学习之路将会不断更新维护，如果有推荐的博客、微信公众号、学习资料，可以提交 Issue。
 
 ----
 
@@ -16,8 +16,7 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 | [Go 怎么开始](https://github.com/alco/gostart) |
 | [Go 开发向导 16 讲](https://github.com/hacking-code/golang-tutorials) |
 | [Go 命令指南](https://github.com/hyper0x/go_command_tutorial) |
-| [Go by Example](https://gobyexample.com/) 、[
-Go By Example 中文版](https://github.com/xg-wang/gobyexample) |
+| [Go by Example](https://gobyexample.com/) [Go By Example 中文版](https://github.com/xg-wang/gobyexample) |
 | [国外的一个高质量 Go 教程集](https://golangbot.com/learn-golang-series/) |
 | [Go 测试驱动](https://quii.gitbook.io/learn-go-with-tests) |
 | [针对初学者的快速入门开发和使用 go](https://github.com/KeKe-Li/For-learning-Go-Tutorial) |
@@ -103,7 +102,7 @@ IntelliJ idea + Go Plugin、[Goland](https://www.jetbrains.com/go/)、[LiteIDE](
 
 本博客列表涉及的文章内容支持 [定制化 Google 搜索](https://cse.google.com/cse/publicurl?cx=012619441804928271226:u6z4yvp8enm)。
 
-本博客列表也提供同步更新的 OPML 文件（[下载 OPML 文件](https://github.com/yangwenmai/learning-golang/raw/master/blogcn.opml)），可供导入到例如 feedly 等第三方订阅工具中，特别感谢 [icepy](https://github.com/icepy) 提供自动转换脚本。这里有 [导入教程](http://blog.feedly.com/feedlimport/)，我对程序做了一点修改，rss 地址可选填。
+本博客列表也提供同步更新的 OPML 文件（[下载 OPML 文件](https://github.com/developer-learning/learning-golang/raw/master/blogcn.opml)），可供导入到例如 feedly 等第三方订阅工具中，特别感谢 [icepy](https://github.com/icepy) 提供自动转换脚本。这里有 [导入教程](http://blog.feedly.com/feedlimport/)，我对程序做了一点修改，rss 地址可选填。
 
 本项目起源于 [iOSBlogCN](https://github.com/tangqiaoboy/iOSBlogCN)，非常感谢 [唐巧](https://github.com/tangqiaoboy/)。
 
