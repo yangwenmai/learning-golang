@@ -4,6 +4,12 @@ Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（�
 
 Go 学习之路将会不断更新维护，如果有推荐的博客、微信公众号、学习资料，可以提交 Issue。
 
+## Stargazers over time
+
+[![Stargazers over time](https://starcharts.herokuapp.com/developer-learning/learning-golang.svg)](https://starcharts.herokuapp.com/developer-learning/learning-golang)
+
+[learning-golang Star History and Stats](https://seladb.github.io/StarTrack-js/?u=developer-learning&r=learning-golang)
+
 ----
 
 ## Go 学习资料
