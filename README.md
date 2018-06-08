@@ -72,6 +72,7 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 | [设计模式 Golang实现－《研磨设计模式》读书笔记](https://github.com/senghoo/golang-design-pattern) |
 | [GopherChina2018: 深入CGO编程 - 最新修订](https://github.com/chai2010/gopherchina2018-cgo-talk) |
 | [《啊哈!算法》-Go 实现](https://github.com/eruca/aha) |
+| [大道至简—GO语言最佳实践](https://mp.weixin.qq.com/s/hE7ecSywWY8SxoQV0OwBQg) |
 
 ## Go 学习视频
 
