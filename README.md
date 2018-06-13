@@ -119,16 +119,15 @@ IntelliJ idea + Go Plugin、[Goland](https://www.jetbrains.com/go/)、[LiteIDE](
 ----- | -----
 [The Go Programming Language Blog](https://blog.golang.org/)| 
 [Tony Bai -- 一个程序员的心路历程](http://tonybai.com/) | <http://tonybai.com/feed/>
-[Arthur 的博客](http://www.zenlife.tk/index/) | <http://www.zenlife.tk/feed.atom>
+[Arthur 的博客](http://www.zenlife.tk/index) | <http://www.zenlife.tk/feed.atom>
 [鸟窝](http://colobu.com/) | <http://colobu.com/atom.xml>
 [飞雪无情的博客](http://www.flysnow.org) | <http://www.flysnow.org/atom.xml>
 [午夜咖啡](http://jolestar.com/) | <http://jolestar.com/feed.xml>
 [蝈蝈俊的技术心得](http://www.cnblogs.com/ghj1976/) | <http://www.cnblogs.com/ghj1976/rss>
 [FuXiaohei.Me -- 傅小黑的自留地](http://fuxiaohei.me/) | 
 [无闻的小站](https://github.com/Unknwon/wuwen.org) | 
-[astaxie](https://my.oschina.net/astaxie/blog) | <https://my.oschina.net/astaxie/rss>
+[astaxie](https://my.oschina.net/astaxie) | <https://my.oschina.net/astaxie/rss>
 [熊窝窝 -- PHP、Codeigniter、JAVA、C#、JAVASCRIPT、LINUX、LATEX、GOLANG 等技术分享](http://www.baiyuxiong.com/) | <http://www.baiyuxiong.com/?feed=rss2>
-[Ross's Page](http://xhrwang.me/) | <http://xhrwang.me/atom.xml>
 [风笑痴](http://lunny.info/) | 
 [getwe's Blog](http://getwe.cn/) | <http://getwe.cn/atom.xml>
 [Harold's Blog -- 个人技术笔记](http://oikomi.github.io/) | 
@@ -152,8 +151,8 @@ IntelliJ idea + Go Plugin、[Goland](https://www.jetbrains.com/go/)、[LiteIDE](
 [Fiisio -- thinking and codeing](http://fiisio.me) | 
 [LittleFeng 的博客 -- Python、Golang、Java、后端技术](https://allenwind.github.io)
 [Legendtkl](http://legendtkl.com/) | 
-[行思錄 | Travel Coder - Arch, Coding, Life Learning](https://liudanking.com) |
-[jasper的技术小窝 - 关注DevOps、运维监控、Python、Golang、开源、大数据、web开发、互联网](http://www.opscoder.info) |
+[行思錄,Travel Coder - Arch, Coding, Life Learning](https://liudanking.com) | 
+[jasper的技术小窝 - 关注DevOps、运维监控、Python、Golang、开源、大数据、web开发、互联网](http://www.opscoder.info) | 
 
 ----
 ## Go 社区
