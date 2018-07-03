@@ -97,7 +97,18 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 
 [Visual Studio Code](https://code.visualstudio.com)、[Sublime Text 3](https://www.sublimetext.com/3)、[Atom](https://atom.io)
 
-安装 Go 插件方法很简单，这里就不介绍了。
+VSCode 插件列表（欢迎大家补充）：
+
+|插件名称|插件描述|
+|----|----|
+|GitLens|非常方便的查看文件代码的 commit 信息（提交时间，提交人等）。|
+|Code Runner|针对非常多的语言而快速方便执行的小插件。|
+|filesize|在 VSCode 底部工具栏，非常方便的显示文件大小。|
+|Go|Go 语言插件。|
+|Terminal|命令行工具插件。|
+|Vim|Vim 插件|
+|VSCode Great Icons|VSCode 美化不同的文件。|
+|WakaTime|统计项目代码的时间。|
 
 ### 3. IDE
 
