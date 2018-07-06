@@ -26,6 +26,7 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 | [国外的一个高质量 Go 教程集](https://golangbot.com/learn-golang-series/) |
 | [针对初学者的快速入门开发和使用 go](https://github.com/KeKe-Li/For-learning-Go-Tutorial) |
 | [Go 快速入门资料](https://devhints.io/go) |
+| [Golang 标准库](https://medium.com/golangspec) |
 
 | Go 进阶|
 |----|
@@ -72,6 +73,7 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 | [GopherChina2018: 深入CGO编程 - 最新修订](https://github.com/chai2010/gopherchina2018-cgo-talk) |
 | [《啊哈!算法》-Go 实现](https://github.com/eruca/aha) |
 | [大道至简—GO语言最佳实践](https://mp.weixin.qq.com/s/hE7ecSywWY8SxoQV0OwBQg) |
+| [了解 Go 和 database 交互最佳实践教程](http://go-database-sql.org/overview.html) |
 
 ## Go 学习视频
 
