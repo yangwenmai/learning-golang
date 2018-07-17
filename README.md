@@ -74,6 +74,7 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 | [《啊哈!算法》-Go 实现](https://github.com/eruca/aha) |
 | [大道至简—GO语言最佳实践](https://mp.weixin.qq.com/s/hE7ecSywWY8SxoQV0OwBQg) |
 | [了解 Go 和 database 交互最佳实践教程](http://go-database-sql.org/overview.html) |
+| [Go实战--golang新手入门常见错误(The way to go)](https://blog.csdn.net/wangshubo1989/article/details/72956065) |
 
 ## Go 学习视频
 
@@ -110,6 +111,7 @@ VSCode 插件列表（欢迎大家补充）：
 |Vim|Vim 插件|
 |VSCode Great Icons|VSCode 美化不同的文件。|
 |WakaTime|统计项目代码的时间。|
+|BetterComments|代码注释|
 
 ### 3. IDE
 
