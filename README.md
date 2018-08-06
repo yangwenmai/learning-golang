@@ -1,4 +1,4 @@
-Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）
+# Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）
 
 [![Build Status](https://travis-ci.org/developer-learning/learning-golang.svg?branch=master)](https://travis-ci.org/developer-learning/learning-golang) [![Go Report Card](https://goreportcard.com/badge/github.com/developer-learning/learning-golang)](https://goreportcard.com/report/github.com/developer-learning/learning-golang)  [![Documentation](https://godoc.org/github.com/developer-learning/learning-golang?status.svg)](http://godoc.org/github.com/developer-learning/learning-golang) [![Coverage Status](https://coveralls.io/repos/github/developer-learning/learning-golang/badge.svg?branch=master)](https://coveralls.io/github/developer-learning/learning-golang?branch=master) [![GitHub issues](https://img.shields.io/github/issues/developer-learning/learning-golang.svg?label=Issue)](https://github.com/developer-learning/learning-golang/issues) [![license](https://img.shields.io/github/license/developer-learning/learning-golang.svg?maxAge=2592000)](https://github.com/developer-learning/learning-golang/LICENSE) [![Release](https://img.shields.io/github/release/developer-learning/learning-golang.svg?label=Release)](https://github.com/developer-learning/learning-golang/releases)
 
@@ -9,6 +9,13 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 [![Stargazers over time](https://starcharts.herokuapp.com/developer-learning/learning-golang.svg)](https://starcharts.herokuapp.com/developer-learning/learning-golang)
 
 [learning-golang Star History and Stats](https://seladb.github.io/StarTrack-js/?u=developer-learning&r=learning-golang)
+
+
+## 大家可以直接订阅[郝林老师的极客时间专栏](https://time.geekbang.org/column/intro/112)
+
+[<img src="./haolin_go_guide.jpeg" width="300px;"/><br /><sub><b>Go 语言核心 36 讲 - 3 个月带你通关 Go 语言</b></sub>](https://time.geekbang.org/column/intro/112)
+
+**有关[郝林的近况、现状以及新的技术专栏](https://mp.weixin.qq.com/s/QYtwmdPyszm6CtK5-r0INA)，技术人都不支持技术人，那我们还可以靠谁，何况郝林老师付出了这么的心血给大家制作的课程。**
 
 ----
 
