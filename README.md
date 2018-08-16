@@ -10,13 +10,6 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 
 [learning-golang Star History and Stats](https://seladb.github.io/StarTrack-js/?u=developer-learning&r=learning-golang)
 
-
-## 大家可以直接订阅[郝林老师的极客时间专栏](https://time.geekbang.org/column/intro/112)
-
-[<img src="./haolin_go_guide.jpeg" width="300px;"/><br /><sub><b>Go 语言核心 36 讲 - 3 个月带你通关 Go 语言</b></sub>](https://time.geekbang.org/column/intro/112)
-
-**有关[郝林的近况、现状以及新的技术专栏](https://mp.weixin.qq.com/s/QYtwmdPyszm6CtK5-r0INA)，技术人都不支持技术人，那我们还可以靠谁，何况郝林老师付出了这么的心血给大家制作的课程。**
-
 ----
 
 ## Go 学习资料
