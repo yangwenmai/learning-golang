@@ -168,6 +168,7 @@ IntelliJ idea + Go Plugin、[Goland](https://www.jetbrains.com/go/)、[LiteIDE](
 [行思錄,Travel Coder - Arch, Coding, Life Learning](https://liudanking.com) | 
 [jasper的技术小窝 - 关注DevOps、运维监控、Python、Golang、开源、大数据、web开发、互联网](http://www.opscoder.info) | 
 [Morsing's Blog](http://morsmachine.dk/index) |
+[Cyeam 你不要用战术的勤奋掩盖战略的懒惰。](http://blog.cyeam.com/) |
 
 ----
 ## Go 社区
