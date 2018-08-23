@@ -27,6 +27,7 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 | [针对初学者的快速入门开发和使用 go](https://github.com/KeKe-Li/For-learning-Go-Tutorial) |
 | [Go 快速入门资料](https://devhints.io/go) |
 | [Golang 标准库](https://medium.com/golangspec) |
+| [Go 简易教程](https://github.com/songleo/the-little-go-book_ZH_CN) |
 
 | Go 进阶|
 |----|
@@ -53,13 +54,14 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 | [Go Language CookBook With Examples](https://ednsquare.com/publisher/view/Go-Language-CookBook-With-Examples------xOhLZaZVGG) |
 | [Go for Industrial Programming - Go 工业级编程](https://peter.bourgon.org/go-for-industrial-programming/) |
 | [Learn Go with tests](https://github.com/quii/learn-go-with-tests) |
+| [Go-SCP](https://github.com/Checkmarx/Go-SCP)|
 
 | Go 面试|
 |----|
 | [Go 开发建议](https://github.com/cristaloleg/go-advices)|
 | [精华的 Go 面试题和答案](https://github.com/goquiz/goquiz.github.io)|
 | [编程面试题的 Go 实现](https://github.com/mrekucci/epi)|
-
+| [Exercism](http://exercism.io/languages/go/about) |
 
 | Go 其他|
 |----|
@@ -76,6 +78,8 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 | [了解 Go 和 database 交互最佳实践教程](http://go-database-sql.org/overview.html) |
 | [Go实战--golang新手入门常见错误(The way to go)](https://blog.csdn.net/wangshubo1989/article/details/72956065) |
 | [Go 箴言(go-proverbs) - Rob Pike](https://go-proverbs.github.io/) |
+| [Go 相关的教程](https://appliedgo.net/) |
+
 
 ## Go 学习视频
 
@@ -86,6 +90,29 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 | [Go 名库讲解](https://github.com/Unknwon/go-rock-libraries-showcases) | 主要是对 Go 语言的第三方库进行评测讲解的，集博客、示例与语音视频为一体的综合教程，适合完成《Go 编程基础》教程之后的学习者。|
 | [Go 语言第一课](http://www.imooc.com/learn/345)|郝林|
 | [Go 箴言 - Rob Pike](https://www.youtube.com/watch?v=PAAkCSZUG1c) |
+| [Learn Go Syntax in one video](https://www.youtube.com/watch?v=CF9S4QZuV30) | 一小时教你 Go 语法的视频 |
+| [Todd McLead](https://www.youtube.com/channel/UCElzlyMtkoXaO3kFa5HL0Xw) | 非常热爱分享 Go 教程的大叔，有开通 Udemy 课程。|
+| [Go In 5 Minutes](https://www.youtube.com/channel/UC2GHqYE3fVJMncbrRd8AqcA) | 5分钟学一个小知识点。 |
+| [JustForFunc](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw) | 很多知识点的 Gopher，YouTuber 教学视频 |
+| [Jon Calhoun](https://www.youtube.com/user/joncalhoun/playlists) | 一系列的 Go 实现的算法视频。 |
+| [Go 语言基础教程 (O’Reilly)](http://www.bilibili.com/video/av8845689/) | O‘Reilly 的 Go 语言基础教程。|
+| [Go Web Programming Bootcamp](http://www.golang-book.com/guides/bootcamp) | Todd McLeod 在别的学校开过的训练营视频，从 Go 基础讲到基础的服务器开发和 GAE。 |
+
+
+## Go 文章
+
+| 标题 | 简单介绍 |
+|----|----|
+| [Create A Real Time Chat App With Golang, Angular 2, And Websockets](https://www.thepolyglotdeveloper.com/2016/12/create-real-time-chat-app-golang-angular-2-websockets/) | 对于用 Go 语言来入门后端的我来说，如何和其它技术结合使用令我耳目一新（尽管看起来不难）|
+| [How do I go about learning Go?](https://medium.com/@IndianGuru/how-do-i-go-about-learning-go-3a58a3a29a0b) | |
+| [Resources for new Go programmers](https://dave.cheney.net/resources-for-new-go-programmers) | |
+| [Using Golang in Production - My Experiences](http://blog.tamizhvendan.in/blog/2017/05/01/using-golang-in-production-my-experiences/) | |
+
+## Go 播客
+
+| 名称 | 简单介绍 |
+|----|----|
+| [GoTime](https://changelog.com/gotime) | A panel of Golang experts and special guests discuss the Go programming language, the community, and everything in between. |
 
 ----
 
@@ -171,7 +198,7 @@ IntelliJ idea + Go Plugin、[Goland](https://www.jetbrains.com/go/)、[LiteIDE](
 | [jasper的技术小窝 - 关注DevOps、运维监控、Python、Golang、开源、大数据、web开发、互联网](http://www.opscoder.info) | 
 | [Morsing's Blog](http://morsmachine.dk/index) |
 | [hanjm backend blog](https://imhanjm.com/) |
-
+| [《Go 语言实战》作者之一的博客](https://www.goinggo.net/) |
 
 ----
 ## Go 社区
