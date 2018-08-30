@@ -199,6 +199,7 @@ IntelliJ idea + Go Plugin、[Goland](https://www.jetbrains.com/go/)、[LiteIDE](
 | [Morsing's Blog](http://morsmachine.dk/index) |
 | [hanjm backend blog](https://imhanjm.com/) |
 | [《Go 语言实战》作者之一的博客](https://www.goinggo.net/) |
+| [Hi, I'm Francesc.](https://campoy.cat/blog) |
 
 ----
 ## Go 社区
