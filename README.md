@@ -79,6 +79,7 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 | [Go实战--golang新手入门常见错误(The way to go)](https://blog.csdn.net/wangshubo1989/article/details/72956065) |
 | [Go 箴言(go-proverbs) - Rob Pike](https://go-proverbs.github.io/) |
 | [Go 相关的教程](https://appliedgo.net/) |
+| [KTH 的 Stefan Nilsson 教授自己写的算法和 Go 代码](https://yourbasic.org/) |
 
 
 ## Go 学习视频
@@ -200,6 +201,8 @@ IntelliJ idea + Go Plugin、[Goland](https://www.jetbrains.com/go/)、[LiteIDE](
 | [hanjm backend blog](https://imhanjm.com/) |
 | [《Go 语言实战》作者之一的博客](https://www.goinggo.net/) |
 | [Hi, I'm Francesc.](https://campoy.cat/blog) |
+| [Michał Łowicki - Web Services @ Opera. Interested in Linux, Docker, NoSQL, Python, Golang and monitoring everything which moves. Never Satisfied.](https://medium.com/@mlowicki) |
+| [三月沙](https://sanyuesha.com/) |
 
 ----
 ## Go 社区
