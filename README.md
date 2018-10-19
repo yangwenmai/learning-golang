@@ -54,7 +54,8 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 | [Go Language CookBook With Examples](https://ednsquare.com/publisher/view/Go-Language-CookBook-With-Examples------xOhLZaZVGG) |
 | [Go for Industrial Programming - Go 工业级编程](https://peter.bourgon.org/go-for-industrial-programming/) |
 | [Learn Go with tests](https://github.com/quii/learn-go-with-tests) |
-| [Go-SCP](https://github.com/Checkmarx/Go-SCP)|
+| [Go-SCP](https://github.com/Checkmarx/Go-SCP) |
+| [An example of gin](https://github.com/EDDYCJY/go-gin-example) |
 
 | Go 面试|
 |----|
