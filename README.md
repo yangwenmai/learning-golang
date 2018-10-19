@@ -204,6 +204,7 @@ IntelliJ idea + Go Plugin、[Goland](https://www.jetbrains.com/go/)、[LiteIDE](
 | [Michał Łowicki - Web Services @ Opera. Interested in Linux, Docker, NoSQL, Python, Golang and monitoring everything which moves. Never Satisfied.](https://medium.com/@mlowicki) |
 | [三月沙](https://sanyuesha.com/) |
 | [大桥下的蜗牛](https://blog.lab99.org/) |
+| [煎鱼的迷之博客](https://github.com/EDDYCJY/blog) |
 
 ----
 ## Go 社区
