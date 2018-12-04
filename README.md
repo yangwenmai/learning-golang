@@ -12,6 +12,8 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 
 ----
 
+## ➡️ [Go 夜读](https://reading.developerlearning.cn)
+
 ## Go 学习资料
 
 | Go 入门|
@@ -26,8 +28,9 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 | [国外的一个高质量 Go 教程集](https://golangbot.com/learn-golang-series/) |
 | [针对初学者的快速入门开发和使用 go](https://github.com/KeKe-Li/For-learning-Go-Tutorial) |
 | [Go 快速入门资料](https://devhints.io/go) |
-| [Golang 标准库](https://medium.com/golangspec) |
+| [Go 标准库](https://medium.com/golangspec) |
 | [Go 简易教程](https://github.com/songleo/the-little-go-book_ZH_CN) |
+| [Go Programs](http://www.golangprograms.com/) |
 
 | Go 进阶|
 |----|
