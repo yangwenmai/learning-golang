@@ -31,6 +31,8 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 | [Go 标准库](https://medium.com/golangspec) |
 | [Go 简易教程](https://github.com/songleo/the-little-go-book_ZH_CN) |
 | [Go Programs](http://www.golangprograms.com/) |
+| [Go(lang) examples - (explain the basics of golang)](https://github.com/SimonWaldherr/golang-examples) |
+| [A set of example golang code to start learning Go](https://github.com/mkaz/working-with-go) |
 
 | Go 进阶|
 |----|
