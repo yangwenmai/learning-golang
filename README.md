@@ -4,6 +4,9 @@
 
 Go 学习之路将会不断更新维护，如果有推荐的博客、微信公众号、学习资料，可以提交 Issue。
 
+=======
+**注意：《Go 学习之路》已经迁移到[https://github.com/developer-learning/learning-golang](https://github.com/developer-learning/learning-golang)。**
+
 ## Stargazers over time
 
 [![Stargazers over time](https://starcharts.herokuapp.com/developer-learning/learning-golang.svg)](https://starcharts.herokuapp.com/developer-learning/learning-golang)
