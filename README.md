@@ -215,6 +215,8 @@ IntelliJ idea + Go Plugin、[Goland](https://www.jetbrains.com/go/)、[LiteIDE](
 | [三月沙](https://sanyuesha.com/) |
 | [大桥下的蜗牛](https://blog.lab99.org/) |
 | [煎鱼的迷之博客](https://github.com/EDDYCJY/blog) |
+| [Stefno - 博客园](https://www.cnblogs.com/qcrao-2018/) |
+| [No Headback - If you don't keep moving, you'll quickly fall behind.](http://xargin.com/readings/) |
 
 ----
 ## Go 社区
