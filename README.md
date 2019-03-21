@@ -187,7 +187,7 @@ IntelliJ idea + Go Plugin、[Goland](https://www.jetbrains.com/go/)、[LiteIDE](
 | [Harold's Blog -- 个人技术笔记](http://oikomi.github.io/) | 
 | [YanyiWu](http://yanyiwu.com/) | <http://yanyiwu.com/rss.xml>
 | [努力加贝](http://www.nljb.net/) | 
-| [ipfans's Blog](https://ipfans.github.io/) | 
+| [ipfans's Blog](https://www.4async.com/) | <https://www.4async.com/atom.xml>
 | [Cyeam -- 你不要用战术的勤奋掩盖战略的懒惰。](http://blog.cyeam.com/) | <http://blog.cyeam.com/atom.xml>
 | [战魂小筑](http://www.cppblog.com/sunicdavy) | <http://www.cppblog.com/sunicdavy/rss.aspx>
 | [My Candy](http://mengqi.info/) | <http://mengqi.info/feed.xml>
