@@ -175,7 +175,7 @@ IntelliJ idea + Go Plugin、[Goland](https://www.jetbrains.com/go/)、[LiteIDE](
 | [Tony Bai -- 一个程序员的心路历程](http://tonybai.com/) | <http://tonybai.com/feed/>
 | [Arthur 的博客](http://www.zenlife.tk/index) | <http://www.zenlife.tk/feed.atom>
 | [鸟窝](http://colobu.com/) | <http://colobu.com/atom.xml>
-| [飞雪无情的博客](http://www.flysnow.org) | <http://www.flysnow.org/atom.xml>
+| [飞雪无情的博客](http://www.flysnow.org) | <http://www.flysnow.org/index.xml>
 | [午夜咖啡](http://jolestar.com/) | <http://jolestar.com/feed.xml>
 | [蝈蝈俊的技术心得](http://www.cnblogs.com/ghj1976/) | <http://www.cnblogs.com/ghj1976/rss>
 | [FuXiaohei.Me -- 傅小黑的自留地](http://fuxiaohei.me/) | 
@@ -187,7 +187,7 @@ IntelliJ idea + Go Plugin、[Goland](https://www.jetbrains.com/go/)、[LiteIDE](
 | [Harold's Blog -- 个人技术笔记](http://oikomi.github.io/) | 
 | [YanyiWu](http://yanyiwu.com/) | <http://yanyiwu.com/rss.xml>
 | [努力加贝](http://www.nljb.net/) | 
-| [ipfans's Blog](https://ipfans.github.io/) | 
+| [ipfans's Blog](https://www.4async.com/) | <https://www.4async.com/atom.xml>
 | [Cyeam -- 你不要用战术的勤奋掩盖战略的懒惰。](http://blog.cyeam.com/) | <http://blog.cyeam.com/atom.xml>
 | [战魂小筑](http://www.cppblog.com/sunicdavy) | <http://www.cppblog.com/sunicdavy/rss.aspx>
 | [My Candy](http://mengqi.info/) | <http://mengqi.info/feed.xml>
