@@ -60,7 +60,7 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 | [《Go语言高级编程》开源免费图书(开发中...) ](https://github.com/chai2010/advanced-go-programming-book) |
 | [一本学习 Go 语言的免费电子书。 ](https://github.com/mikespook/Learning-Go-zh-cn) |
 | [《Effective Go》中英双语版](https://github.com/bingohuang/effective-go-zh-en) |
-| [Go 101](https://github.com/go101/go101) |
+| [Go 101](https://github.com/go101/go101) ([中文版](https://github.com/golang101/golang101)) |
 | [Go Language CookBook With Examples](https://ednsquare.com/publisher/view/Go-Language-CookBook-With-Examples------xOhLZaZVGG) |
 | [Go for Industrial Programming - Go 工业级编程](https://peter.bourgon.org/go-for-industrial-programming/) |
 | [Learn Go with tests](https://github.com/quii/learn-go-with-tests) |
