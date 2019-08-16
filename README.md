@@ -91,7 +91,7 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 | [Go 箴言(go-proverbs) - Rob Pike](https://go-proverbs.github.io/) |
 | [Go 相关的教程](https://appliedgo.net/) |
 | [KTH 的 Stefan Nilsson 教授自己写的算法和 Go 代码](https://yourbasic.org/) |
-
+| [终极 Go 学习指南 Ultimate Go study guides](https://github.com/hoanhan101/ultimate-go) |
 
 ## Go 学习视频
 
