@@ -224,6 +224,7 @@ IntelliJ idea + Go Plugin、[Goland](https://www.jetbrains.com/go/)、[LiteIDE](
 | [Stefno - 博客园](https://www.cnblogs.com/qcrao-2018/) |
 | [No Headback - If you don't keep moving, you'll quickly fall behind.](http://xargin.com/readings/) |
 | [面向信仰编程 Draveness's Blog](https://draveness.me/) | <https://draveness.me/feed.xml>
+| [程序印象 知行合一 业精于勤](https://www.cn18k.com/) | <https://www.cn18k.com/atom.xml>
 
 ----
 ## Go 社区
