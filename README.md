@@ -11,7 +11,7 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 
 [![Stargazers over time](https://starcharts.herokuapp.com/developer-learning/learning-golang.svg)](https://starcharts.herokuapp.com/developer-learning/learning-golang)
 
-[learning-golang Star History and Stats](https://seladb.github.io/StarTrack-js/?u=developer-learning&r=learning-golang)
+[learning-golang Star History and Stats](https://seladb.github.io/StarTrack-js/#/preload?r=developer-learning,learning-golang)
 
 ----
 
