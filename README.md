@@ -11,7 +11,7 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 
 [![Stargazers over time](https://starcharts.herokuapp.com/developer-learning/learning-golang.svg)](https://starcharts.herokuapp.com/developer-learning/learning-golang)
 
-[learning-golang Star History and Stats](https://seladb.github.io/StarTrack-js/?u=developer-learning&r=learning-golang)
+[learning-golang Star History and Stats](https://seladb.github.io/StarTrack-js/#/preload?r=developer-learning,learning-golang)
 
 ----
 
@@ -225,7 +225,8 @@ IntelliJ idea + Go Plugin、[Goland](https://www.jetbrains.com/go/)、[LiteIDE](
 | [No Headback - If you don't keep moving, you'll quickly fall behind.](http://xargin.com/readings/) |
 | [面向信仰编程 Draveness's Blog](https://draveness.me/) | <https://draveness.me/feed.xml>
 | [程序印象 知行合一 业精于勤](https://www.cn18k.com/) | <https://www.cn18k.com/atom.xml>
-| [菜鸟Miao start from a newb...](http://blog.newbmiao.com/) | <http://blog.newbmiao.com/atom.xml>
+| [菜鸟 Miao start from a newb...](http://blog.newbmiao.com/) | <http://blog.newbmiao.com/atom.xml>
+| [峰云就她了 - 专注于 GOLANG、PYTHON、DB、CLUSTER](http://xiaorui.cc/) | <http://xiaorui.cc/feed/>
 
 ----
 ## Go 社区
