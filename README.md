@@ -1,21 +1,21 @@
 # Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）
 
-[![Build Status](https://travis-ci.org/developer-learning/learning-golang.svg?branch=master)](https://travis-ci.org/developer-learning/learning-golang) [![Go Report Card](https://goreportcard.com/badge/github.com/developer-learning/learning-golang)](https://goreportcard.com/report/github.com/developer-learning/learning-golang)  [![Documentation](https://godoc.org/github.com/developer-learning/learning-golang?status.svg)](http://godoc.org/github.com/developer-learning/learning-golang) [![Coverage Status](https://coveralls.io/repos/github/developer-learning/learning-golang/badge.svg?branch=master)](https://coveralls.io/github/developer-learning/learning-golang?branch=master) [![GitHub issues](https://img.shields.io/github/issues/developer-learning/learning-golang.svg?label=Issue)](https://github.com/developer-learning/learning-golang/issues) [![license](https://img.shields.io/github/license/developer-learning/learning-golang.svg?maxAge=2592000)](https://github.com/developer-learning/learning-golang/LICENSE) [![Release](https://img.shields.io/github/release/developer-learning/learning-golang.svg?label=Release)](https://github.com/developer-learning/learning-golang/releases)
+[![Build Status](https://travis-ci.org/talk-go/read.svg?branch=master)](https://travis-ci.org/talk-go/read) [![Go Report Card](https://goreportcard.com/badge/github.com/talk-go/read)](https://goreportcard.com/report/github.com/talk-go/read)  [![Documentation](https://godoc.org/github.com/talk-go/read?status.svg)](http://godoc.org/github.com/talk-go/read) [![Coverage Status](https://coveralls.io/repos/github/talk-go/read/badge.svg?branch=master)](https://coveralls.io/github/talk-go/read?branch=master) [![GitHub issues](https://img.shields.io/github/issues/talk-go/read.svg?label=Issue)](https://github.com/talk-go/read/issues) [![license](https://img.shields.io/github/license/talk-go/read.svg?maxAge=2592000)](https://github.com/talk-go/read/LICENSE) [![Release](https://img.shields.io/github/release/talk-go/read.svg?label=Release)](https://github.com/talk-go/read/releases)
 
 Go 学习之路将会不断更新维护，如果有推荐的博客、微信公众号、学习资料，可以提交 Issue。
 
 =======
-**注意：《Go 学习之路》已经迁移到[https://github.com/developer-learning/learning-golang](https://github.com/developer-learning/learning-golang)。**
+**注意：《Go 学习之路》已经迁移到[https://github.com/talk-go/read](https://github.com/talk-go/read)。**
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starcharts.herokuapp.com/developer-learning/learning-golang.svg)](https://starcharts.herokuapp.com/developer-learning/learning-golang)
+[![Stargazers over time](https://starcharts.herokuapp.com/talk-go/read.svg)](https://starcharts.herokuapp.com/talk-go/read)
 
-[learning-golang Star History and Stats](https://seladb.github.io/StarTrack-js/#/preload?r=developer-learning,learning-golang)
+[learning-golang Star History and Stats](https://seladb.github.io/StarTrack-js/#/preload?r=talk-go,read)
 
 ----
 
-## ➡️ [Go 夜读](https://reading.developerlearning.cn)
+## ➡️ [Go 夜读](https://talkgo.org/)
 
 ## Go 学习资料
 
@@ -169,7 +169,7 @@ IntelliJ idea + Go Plugin、[Goland](https://www.jetbrains.com/go/)、[LiteIDE](
 
 本博客列表涉及的文章内容支持 [定制化 Google 搜索](https://cse.google.com/cse/publicurl?cx=012619441804928271226:u6z4yvp8enm)。
 
-本博客列表也提供同步更新的 OPML 文件（[下载 OPML 文件](https://github.com/developer-learning/learning-golang/raw/master/blogcn.opml)），可供导入到例如 feedly 等第三方订阅工具中，特别感谢 [icepy](https://github.com/icepy) 提供自动转换脚本。这里有 [导入教程](http://blog.feedly.com/feedlimport/)，我对程序做了一点修改，rss 地址可选填。
+本博客列表也提供同步更新的 OPML 文件（[下载 OPML 文件](https://github.com/talk-go/read/raw/master/blogcn.opml)），可供导入到例如 feedly 等第三方订阅工具中，特别感谢 [icepy](https://github.com/icepy) 提供自动转换脚本。这里有 [导入教程](http://blog.feedly.com/feedlimport/)，我对程序做了一点修改，rss 地址可选填。
 
 本项目起源于 [iOSBlogCN](https://github.com/tangqiaoboy/iOSBlogCN)，非常感谢 [唐巧](https://github.com/tangqiaoboy/)。
 
@@ -227,6 +227,8 @@ IntelliJ idea + Go Plugin、[Goland](https://www.jetbrains.com/go/)、[LiteIDE](
 | [程序印象 知行合一 业精于勤](https://www.cn18k.com/) | <https://www.cn18k.com/atom.xml>
 | [菜鸟 Miao start from a newb...](http://blog.newbmiao.com/) | <http://blog.newbmiao.com/atom.xml>
 | [峰云就她了 - 专注于 GOLANG、PYTHON、DB、CLUSTER](http://xiaorui.cc/) | <http://xiaorui.cc/feed/>
+| [大俊 - Go 每日一库](https://darjun.github.io/) |
+| [极客兔兔 - 7天从零实现 XX](https://geektutu.com/) | 
 
 ----
 ## Go 社区
