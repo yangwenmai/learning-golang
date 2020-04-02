@@ -227,6 +227,8 @@ IntelliJ idea + Go Plugin、[Goland](https://www.jetbrains.com/go/)、[LiteIDE](
 | [程序印象 知行合一 业精于勤](https://www.cn18k.com/) | <https://www.cn18k.com/atom.xml>
 | [菜鸟 Miao start from a newb...](http://blog.newbmiao.com/) | <http://blog.newbmiao.com/atom.xml>
 | [峰云就她了 - 专注于 GOLANG、PYTHON、DB、CLUSTER](http://xiaorui.cc/) | <http://xiaorui.cc/feed/>
+| [大俊 - Go 每日一库](https://darjun.github.io/) |
+| [极客兔兔 - 7天从零实现 XX](https://geektutu.com/) | 
 
 ----
 ## Go 社区
