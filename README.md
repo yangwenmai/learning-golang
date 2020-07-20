@@ -49,6 +49,7 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 | [Go 内部原理的一系列文章和视频](https://github.com/emluque/golang-internals-resources) |
 | [编写和优化 Go 代码](https://github.com/dgryski/go-perfbook/)                          |
 | [Go 语言博客实践](https://github.com/achun/Go-Blog-In-Action)                          |
+| [Go 面向包的设计和架构分层](https://github.com/danceyoung/paper-code/blob/master/package-oriented-design/packageorienteddesign.md)                          |
 
 | Go 书籍                                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- |
