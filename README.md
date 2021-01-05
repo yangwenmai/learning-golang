@@ -69,6 +69,7 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 | [An example of gin](https://github.com/EDDYCJY/go-gin-example)                                                                    |
 | [Go 语言原本（基于 Go 1.14）](https://changkun.de/golang)                                                                         |
 | [Go 语言设计与实现](https://draveness.me/golang)                                                                                  |
+| [Essential Go](https://essential-go.programming-books.io/)                                                                                  |
 
 | Go 面试                                                              |
 | -------------------------------------------------------------------- |
