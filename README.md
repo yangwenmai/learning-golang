@@ -70,6 +70,8 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 | [Go 语言原本（基于 Go 1.14）](https://changkun.de/golang)                                                                         |
 | [Go 语言设计与实现](https://draveness.me/golang)                                                                                  |
 | [Essential Go](https://essential-go.programming-books.io/)                                                                                  |
+| [Go 语言高性能编程](https://geektutu.com/post/high-performance-go.html)                                                                                  |
+| [Golang 修养之路](https://github.com/aceld/golang)                                                                                  |
 
 | Go 面试                                                              |
 | -------------------------------------------------------------------- |
