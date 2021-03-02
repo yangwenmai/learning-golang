@@ -52,6 +52,7 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 | [编写和优化 Go 代码](https://github.com/dgryski/go-perfbook/)                                                                      |
 | [Go 语言博客实践](https://github.com/achun/Go-Blog-In-Action)                                                                      |
 | [Go 面向包的设计和架构分层](https://github.com/danceyoung/paper-code/blob/master/package-oriented-design/packageorienteddesign.md) |
+| [Go 语言轻松进阶](http://tigerb.cn/go/#/kernal/) |
 
 | Go 书籍                                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -89,6 +90,7 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 | [Golang 的标准库中文版，由 Go 友团翻译](https://github.com/jemygraw/GoStandardLibrary-Chinese)                  |
 | [《Go 语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)                      |
 | [设计模式 Golang 实现－《研磨设计模式》读书笔记](https://github.com/senghoo/golang-design-pattern)              |
+| [Go 设计模式实战](http://tigerb.cn/go/#/patterns/) |
 | [GopherChina2018: 深入CGO编程 - 最新修订](https://github.com/chai2010/gopherchina2018-cgo-talk)                 |
 | [《啊哈!算法》- Go 实现](https://github.com/eruca/aha)                                                          |
 | [大道至简 — Go 语言最佳实践](https://mp.weixin.qq.com/s/hE7ecSywWY8SxoQV0OwBQg)                                 |
