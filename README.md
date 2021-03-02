@@ -72,6 +72,9 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 | [An example of gin](https://github.com/EDDYCJY/go-gin-example)                                                                    |
 | [Go 语言原本（基于 Go 1.14）](https://changkun.de/golang)                                                                         |
 | [Go 语言设计与实现](https://draveness.me/golang)                                                                                  |
+| [Essential Go](https://essential-go.programming-books.io/)                                                                                  |
+| [Go 语言高性能编程](https://geektutu.com/post/high-performance-go.html)                                                                                  |
+| [Golang 修养之路](https://github.com/aceld/golang)                                                                                  |
 
 | Go 面试                                                              |
 | -------------------------------------------------------------------- |
@@ -295,3 +298,4 @@ IntelliJ idea + Go Plugin、[Goland](https://www.jetbrains.com/go/)、[LiteIDE](
 | PingCAP                   | pingcap2015     | ![PingCAP](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI3NDIxNTQyOQ==&mid=2247484607&idx=1&sn=d2e8374e7ee5ea91387d8d3d8ea69c96&send_time=)           |
 | 午夜咖啡                  | jolestar-blog   | ![午夜咖啡](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA4NjgwMDQ0OA==&mid=2652445522&idx=1&sn=36e34036016d3c9fae76173cb9e2c7a7&send_time=)          |
 | 飞雪无情                  | flysnow_org     | ![飞雪无情](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI3MjU4Njk3Ng==&mid=2247483751&idx=1&sn=15bf5e8ca24c565819bc07682502266f&send_time=)          |
+| New2coder                  | New2coder     | ![New2coder](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=Mzg4MjU0OTU2MA==&mid=2247483712&idx=1&sn=dc361e397792a6c1fab9185742a21af6&send_time=)          |
