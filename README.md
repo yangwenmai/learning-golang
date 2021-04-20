@@ -40,6 +40,8 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 | [A set of example golang code to start learning Go](https://github.com/mkaz/working-with-go)             |
 | [快学 Go 语言](https://zhuanlan.zhihu.com/quickgo)                                                       |
 | [从零到 Go 大神](https://medium.freecodecamp.org/learning-go-from-zero-to-hero-d2a3223b3d86)             |
+| [Practical Go Lessons by Maximilien Andile](https://www.practical-go-lessons.com/)             |
+
 
 | Go 进阶                                                                                                                            |
 | ---------------------------------------------------------------------------------------------------------------------------------- |
