@@ -154,8 +154,8 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 
 | Golang Channel                                       | Intro                                                                               | Subscribers |
 | ---------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------- |
+| [Go 夜读](https://space.bilibili.com/326749661)      | 所有与 Go 相关的技术知识、架构实践，TalkGo 读书会的阅读清单，读书笔记，读书小结等。 | 1.9 万粉丝  |
 | [土妹编程](https://space.bilibili.com/555585221/)    | 硅谷老年(senior)程序员，认真做对技术人有帮助的干货视频！                            | 1.7 万粉丝  |
-| [Go 夜读](https://space.bilibili.com/326749661)      | 所有与 Go 相关的技术知识、架构实践，TalkGo 读书会的阅读清单，读书笔记，读书小结等。 | 1.4 万粉丝  |
 | [eggo-tech](https://space.bilibili.com/567195437/)   | 公众号：幼麟实验室。我们师徒二人，就想做点儿形象通透的编程教程。                    | 5674 粉丝   |
 | [面向加薪学习](https://space.bilibili.com/375038855) | 专注于Go、Java、Flutter、Vue、React、Taro、小程序、Android、项目管理、软件架构      | 3202 粉丝   |
 | [GopherChina](https://space.bilibili.com/436361287)  | GopherChina                                                                         | 2396 粉丝   |
@@ -176,6 +176,7 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 | 名称                                   | 简单介绍                                                                                                                    |
 | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | [GoTime](https://changelog.com/gotime) | A panel of Golang experts and special guests discuss the Go programming language, the community, and everything in between. |
+| [Go 夜聊](https://talkgo.fm/) | 「Go 夜聊」是一档由杨文和欧长坤主持的针对 Go 语言的播客节目。我们的宗旨是让更多的人了解 Go ，包括 Go 语言的发展和未来规划，当然也有很多资深 Gopher 与 Go 语言的故事。 |
 
 ----
 
