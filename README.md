@@ -223,7 +223,7 @@ IntelliJ idea + Go Plugin、[Goland](https://www.jetbrains.com/go/)、[LiteIDE](
 
 | 博客地址 (排名不分先后)                                                                                                                                                           | RSS 地址                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| [The Go Programming Language Blog](https://blog.golang.org/)                                                                                                                      |
+| [The Go Programming Language Blog](https://blog.golang.org/)                                                                                                                      | <https://blog.golang.org/feed.atom?format=xml>
 | [Tony Bai -- 一个程序员的心路历程](http://tonybai.com/)                                                                                                                           | <http://tonybai.com/feed/>                       |
 | [Arthur 的博客](http://www.zenlife.tk/index)                                                                                                                                      | <http://www.zenlife.tk/feed.atom>                |
 | [鸟窝](http://colobu.com/)                                                                                                                                                        | <http://colobu.com/atom.xml>                     |
