@@ -5,13 +5,10 @@
 Go 学习之路将会不断更新维护，如果有推荐的博客、微信公众号、学习资料，可以提交 Issue。
 
 =======
-**注意：《Go 学习之路》已经迁移到[https://github.com/talkgo/read](https://github.com/talkgo/read)。**
 
-## Stargazers over time
+## Star History
 
-[![Stargazers over time](https://starcharts.herokuapp.com/talkgo/read.svg)](https://starcharts.herokuapp.com/talkgo/read)
-
-[learning-golang Star History and Stats](https://seladb.github.io/StarTrack-js/#/preload?r=talkgo,read)
+[![Star History Chart](https://api.star-history.com/svg?repos=talkgo/read&type=Date)](https://star-history.com/#talkgo/read&Date)
 
 ----
 
