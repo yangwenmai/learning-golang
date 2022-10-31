@@ -1,11 +1,10 @@
 # Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）
 
-[![Build Status](https://travis-ci.org/talkgo/read.svg?branch=master)](https://travis-ci.org/talkgo/read) [![Go Report Card](https://goreportcard.com/badge/github.com/talkgo/read)](https://goreportcard.com/report/github.com/talkgo/read)  [![Documentation](https://godoc.org/github.com/talkgo/read?status.svg)](http://godoc.org/github.com/talkgo/read) [![Coverage Status](https://coveralls.io/repos/github/talkgo/read/badge.svg?branch=master)](https://coveralls.io/github/talkgo/read?branch=master) [![GitHub issues](https://img.shields.io/github/issues/talkgo/read.svg?label=Issue)](https://github.com/talkgo/read/issues) [![license](https://img.shields.io/github/license/talkgo/read.svg?maxAge=2592000)](https://github.com/talkgo/read/LICENSE) [![Release](https://img.shields.io/github/release/talkgo/read.svg?label=Release)](https://github.com/talkgo/read/releases)
+[![Build Status](https://travis-ci.org/talkgo/read.svg?branch=master)](https://travis-ci.org/talkgo/read) [![Go Report Card](https://goreportcard.com/badge/github.com/talkgo/read)](https://goreportcard.com/report/github.com/talkgo/read)  [![Documentation](https://godoc.org/github.com/talkgo/read?status.svg)](http://godoc.org/github.com/talkgo/read) [![Coverage Status](https://coveralls.io/repos/github/talkgo/read/badge.svg?branch=master)](https://coveralls.io/github/talkgo/read?branch=master) [![GitHub issues](https://img.shields.io/github/issues/talkgo/read.svg?label=Issue)](https://github.com/talkgo/read/issues) [![license](https://img.shields.io/github/license/talkgo/read.svg?maxAge=2592000)](https://github.com/talkgo/read/LICENSE) [![Release](https://img.shields.io/github/release/talkgo/read.svg?label=Release)](https://github.com/talkgo/read/releases) ![](https://changkun.de/urlstat?mode=github&repo=talkgo/read)
 
 Go 学习之路将会不断更新维护，如果有推荐的博客、微信公众号、学习资料，可以提交 Issue。
 
 =======
-**注意：《Go 学习之路》已经迁移到[https://github.com/talkgo/read](https://github.com/talkgo/read)。**
 
 ## Star History
 
@@ -24,8 +23,7 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 | [Go 官方网站](https://golang.org/) 、[Go 中文官方网站](https://go-zh.org/)                               |
 | [Go 入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN)                                            |
 | [Go 指南](https://tour.go-zh.org/)                                                                       |
-| [Go 怎么开始](https://github.com/alco/gostart)                                                           |
-| [Go 开发向导 16 讲](https://github.com/hacking-code/golang-tutorials)                                    |
+| [Go 怎么开始（有点过时，不推荐）](https://github.com/alco/gostart)                                                           |
 | [Go 命令指南](https://github.com/hyper0x/go_command_tutorial)                                            |
 | [Go by Example](https://gobyexample.com/) [Go By Example 中文版](https://github.com/xg-wang/gobyexample) |
 | [国外的一个高质量 Go 教程集](https://golangbot.com/learn-golang-series/)                                 |
@@ -57,31 +55,26 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 | Go 书籍                                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- |
 | [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang)                                                       |
-| [雨痕的《Go 学习笔记》，正在编写第六版，可于微博下载预览版，或关注公众号(2018-05-07)](https://github.com/qyuhen/book)             |
-| [Go 语言圣经](https://www.gitbook.com/book/wizardforcel/gopl-zh/details) / [Go 语言圣经](https://github.com/golang-china/gopl-zh) |
+| [《Go 学习笔记》](https://github.com/qyuhen/book)             |
+| [Go 语言圣经](https://gopl-zh.github.io/) / [Go 语言圣经](https://github.com/golang-china/gopl-zh) |
 | [GO SCP](https://checkmarx.gitbooks.io/go-scp/content/)                                                                           |
 | [List of Golang books](https://github.com/dariubs/GoBooks)                                                                        |
-| [《Go语言高级编程》开源免费图书(开发中...) ](https://github.com/chai2010/advanced-go-programming-book)                            |
+| [《Go语言高级编程》](https://github.com/chai2010/advanced-go-programming-book)                            |
 | [一本学习 Go 语言的免费电子书。 ](https://github.com/mikespook/Learning-Go-zh-cn)                                                 |
 | [《Effective Go》中英双语版](https://github.com/bingohuang/effective-go-zh-en)                                                    |
 | [Go 101](https://github.com/go101/go101) ([中文版](https://github.com/golang101/golang101))                                       |
-| [Go Language CookBook With Examples](https://ednsquare.com/publisher/view/Go-Language-CookBook-With-Examples------xOhLZaZVGG)     |
 | [Go for Industrial Programming - Go 工业级编程](https://peter.bourgon.org/go-for-industrial-programming/)                         |
-| [Learn Go with tests](https://github.com/quii/learn-go-with-tests)                                                                |
-| [Go-SCP](https://github.com/Checkmarx/Go-SCP)                                                                                     |
-| [An example of gin](https://github.com/EDDYCJY/go-gin-example)                                                                    |
-| [Go 语言原本（基于 Go 1.14）](https://changkun.de/golang)                                                                         |
+| [Go 语言原本（基于 Go 1.15）](https://golang.design/under-the-hood/)                                                                         |
 | [Go 语言设计与实现](https://draveness.me/golang)                                                                                  |
-| [Essential Go](https://essential-go.programming-books.io/)                                                                                  |
 | [Go 语言高性能编程](https://geektutu.com/post/high-performance-go.html)                                                                                  |
 | [Golang 修养之路](https://github.com/aceld/golang)                                                                                  |
+| [Go2编程指南](https://golang-china.github.io/go2-book/)                                                                                  |
+| [µGo语言实现——从头开发一个迷你Go语言编译器](https://github.com/wa-lang/ugo-compiler-book)                                                                                  |
 
 | Go 面试                                                              |
 | -------------------------------------------------------------------- |
 | [Go 开发建议](https://github.com/cristaloleg/go-advices)             |
-| [精华的 Go 面试题和答案](https://github.com/goquiz/goquiz.github.io) |
 | [编程面试题的 Go 实现](https://github.com/mrekucci/epi)              |
-| [Exercism](http://exercism.io/languages/go/about)                    |
 | [面前必看](https://github.com/qcrao/interview)                       |
 
 | Go 其他                                                                                                         |
@@ -121,7 +114,7 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 | [Jon Calhoun](https://www.youtube.com/user/joncalhoun/playlists)            | 一系列的 Go 实现的算法视频。                                                                                                |
 | [Go 语言基础教程 (O’Reilly)](http://www.bilibili.com/video/av8845689/)      | O‘Reilly 的 Go 语言基础教程。                                                                                               |
 | [Go Web Programming Bootcamp](http://www.golang-book.com/guides/bootcamp)   | Todd McLeod 在别的学校开过的训练营视频，从 Go 基础讲到基础的服务器开发和 GAE。                                              |
-| [Go 夜读](https://www.youtube.com/c/Go%E5%A4%9C%E8%AF%BB)                   |
+| [Go 夜读](https://www.youtube.com/c/talkgo_night)                   |
 
 ## Go 频道（YouTube 和 Bilibili）
 
@@ -152,15 +145,15 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 
 | Golang Channel                                       | Intro                                                                               | Subscribers |
 | ---------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------- |
+| [Go 夜读](https://space.bilibili.com/326749661)      | 所有与 Go 相关的技术知识、架构实践，TalkGo 读书会的阅读清单，读书笔记，读书小结等。 | 1.9 万粉丝  |
 | [土妹编程](https://space.bilibili.com/555585221/)    | 硅谷老年(senior)程序员，认真做对技术人有帮助的干货视频！                            | 1.7 万粉丝  |
-| [Go 夜读](https://space.bilibili.com/326749661)      | 所有与 Go 相关的技术知识、架构实践，TalkGo 读书会的阅读清单，读书笔记，读书小结等。 | 1.4 万粉丝  |
 | [eggo-tech](https://space.bilibili.com/567195437/)   | 公众号：幼麟实验室。我们师徒二人，就想做点儿形象通透的编程教程。                    | 5674 粉丝   |
 | [面向加薪学习](https://space.bilibili.com/375038855) | 专注于Go、Java、Flutter、Vue、React、Taro、小程序、Android、项目管理、软件架构      | 3202 粉丝   |
 | [GopherChina](https://space.bilibili.com/436361287)  | GopherChina                                                                         | 2396 粉丝   |
 | [欧长坤](https://space.bilibili.com/2757295/)        | https://changkun.de                                                                 | 725 粉丝    |
 
 
-## Go 文章
+## Go 文章或项目
 
 | 标题                                                                                                                                                                      | 简单介绍                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
@@ -168,12 +161,16 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 | [How do I go about learning Go?](https://medium.com/@IndianGuru/how-do-i-go-about-learning-go-3a58a3a29a0b)                                                               |                                                                                        |
 | [Resources for new Go programmers](https://dave.cheney.net/resources-for-new-go-programmers)                                                                              |                                                                                        |
 | [Using Golang in Production - My Experiences](http://blog.tamizhvendan.in/blog/2017/05/01/using-golang-in-production-my-experiences/)                                     |                                                                                        |
+| [An example of gin](https://github.com/EDDYCJY/go-gin-example)                                                                    |
+| [Learn Go with tests](https://github.com/quii/learn-go-with-tests)                                                                |
+| [Go-SCP](https://github.com/Checkmarx/Go-SCP)                                                                                     |
 
 ## Go 播客
 
 | 名称                                   | 简单介绍                                                                                                                    |
 | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | [GoTime](https://changelog.com/gotime) | A panel of Golang experts and special guests discuss the Go programming language, the community, and everything in between. |
+| [Go 夜聊](https://talkgo.fm/) | 「Go 夜聊」是一档由杨文和欧长坤主持的针对 Go 语言的播客节目。我们的宗旨是让更多的人了解 Go ，包括 Go 语言的发展和未来规划，当然也有很多资深 Gopher 与 Go 语言的故事。 |
 
 ----
 
