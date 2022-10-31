@@ -8,7 +8,7 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=talkgo/read&type=Date)](https://star-history.com/#talkgo/read&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=yangwenmai/learning-golang&type=Date)](https://star-history.com/#yangwenmai/learning-golang&Date)
 
 ----
 
