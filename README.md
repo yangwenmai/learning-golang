@@ -56,7 +56,7 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 | --------------------------------------------------------------------------------------------------------------------------------- |
 | [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang)                                                       |
 | [《Go 学习笔记》](https://github.com/qyuhen/book)             |
-| [Go 语言圣经](https://www.gitbook.com/book/wizardforcel/gopl-zh/details) / [Go 语言圣经](https://github.com/golang-china/gopl-zh) |
+| [Go 语言圣经](https://gopl-zh.github.io/) / [Go 语言圣经](https://github.com/golang-china/gopl-zh) |
 | [GO SCP](https://checkmarx.gitbooks.io/go-scp/content/)                                                                           |
 | [List of Golang books](https://github.com/dariubs/GoBooks)                                                                        |
 | [《Go语言高级编程》](https://github.com/chai2010/advanced-go-programming-book)                            |
@@ -68,6 +68,8 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 | [Go 语言设计与实现](https://draveness.me/golang)                                                                                  |
 | [Go 语言高性能编程](https://geektutu.com/post/high-performance-go.html)                                                                                  |
 | [Golang 修养之路](https://github.com/aceld/golang)                                                                                  |
+| [Go2编程指南](https://golang-china.github.io/go2-book/)                                                                                  |
+| [µGo语言实现——从头开发一个迷你Go语言编译器](https://github.com/wa-lang/ugo-compiler-book)                                                                                  |
 
 | Go 面试                                                              |
 | -------------------------------------------------------------------- |
