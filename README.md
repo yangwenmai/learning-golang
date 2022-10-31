@@ -114,7 +114,7 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 | [Jon Calhoun](https://www.youtube.com/user/joncalhoun/playlists)            | 一系列的 Go 实现的算法视频。                                                                                                |
 | [Go 语言基础教程 (O’Reilly)](http://www.bilibili.com/video/av8845689/)      | O‘Reilly 的 Go 语言基础教程。                                                                                               |
 | [Go Web Programming Bootcamp](http://www.golang-book.com/guides/bootcamp)   | Todd McLeod 在别的学校开过的训练营视频，从 Go 基础讲到基础的服务器开发和 GAE。                                              |
-| [Go 夜读](https://www.youtube.com/c/Go%E5%A4%9C%E8%AF%BB)                   |
+| [Go 夜读](https://www.youtube.com/c/talkgo_night)                   |
 
 ## Go 频道（YouTube 和 Bilibili）
 
